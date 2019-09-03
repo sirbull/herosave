@@ -2,7 +2,7 @@
 // @name     HeroSaver for HeroForge
 // @version  1
 // @description  Automatically load HeroSaver when visiting HeroForge
-// @namespace https://github.com/christofsteel/herosaver
+// @namespace https://github.com/sirbull/herosave
 // @match  https://www.heroforge.com/
 // @grant        none
 // ==/UserScript==
